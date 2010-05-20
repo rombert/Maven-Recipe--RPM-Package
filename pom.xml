@@ -26,6 +26,7 @@
 						<mapping>
 							<directory>${app.home}/lib/</directory>
 							<dependency/>
+							<artifact/>
 						</mapping>
 						<mapping>
 							<directory>${app.home}/conf</directory>
